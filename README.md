@@ -7,4 +7,5 @@ Pkg.add("JuMP")
 Pkg.add("Convex")
 Pkg.add("Cbc")
 Pkg.add("Ipopt")
+Pkg.add("SCS")
 ```
